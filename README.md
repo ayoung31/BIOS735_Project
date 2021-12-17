@@ -6,5 +6,5 @@ You can install this package using the following code:
 
 ```{r install}
 library(devtools)
-install_github("lcw68/G3proj")
+install_github("ayoung31/BIOS735_Project")
 ```
